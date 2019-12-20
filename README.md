@@ -1,5 +1,5 @@
 ## ABOUT ##
-pdbwords was written by Kresten Lindorff-Larsen, University of Copenhagen in 2015.
+pdbwords was written by Kresten Lindorff-Larsen, University of Copenhagen, in 2015.
 
 I cannot guarantee that your eyes will not start to bleed if you read the code.
 
