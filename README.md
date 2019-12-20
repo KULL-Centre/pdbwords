@@ -26,7 +26,7 @@ Every unknown characters will be set as a space.
 
 Lines will be broken up so that there are no more than MAXCHARS (hardcoded in script) characters on each line. If you want to force a line break, just write xLBx as a (case sensitive) word (again, hardcoded in LINEBREAK in script).
 
-The two last features makes the following hack work to insert blank lines xLBx @ xLBx (which force a line break, then the @ is converted to a space (it is unknown) and then a new linebreak. Not elegant, but it works
+The two last features makes the following hack work to insert blank lines xLBx @ xLBx (which forces a line break, then the @ is converted to a space (it is unknown) and then a new linebreak. Not elegant, but it works.
 
 ## Background ##
 The letters were mostly discovered by Mark Howarth and are described in a paper:
