@@ -1,3 +1,4 @@
+## ABOUT ##
 pdbwords was written by Kresten Lindorff-Larsen, University of Copenhagen in 2015.
 
 I cannot guarantee that your eyes will not start to bleed if you read the code.
@@ -9,8 +10,8 @@ The python code is distributed under GNU General Public License v3.0
 
 ## THIS IS HOW YOU RUN PDB WORDS ##
 ./pdbwords.py Just write your text here to set it in PDBWORDS
-## THAT'S IT ##
 
+## Requirements ##
 The code is essentially a wrapper for ImageMagick, which needs to be installed separately; see
 http://www.imagemagick.org
 
@@ -27,6 +28,7 @@ Lines will be broken up so that there are no more than MAXCHARS (hardcoded in sc
 
 The two last features makes the following hack work to insert blank lines xLBx @ xLBx (which force a line break, then the @ is converted to a space (it is unknown) and then a new linebreak. Not elegant, but it works
 
+## Background ##
 The letters were mostly discovered by Mark Howarth and are described in a paper:
 http://www.nature.com/nsmb/journal/v22/n5/full/nsmb.3011.html
 and a website:
