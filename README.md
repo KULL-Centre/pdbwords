@@ -1,5 +1,6 @@
-pdbwords was written by Kresten Lindorff-Larsen, University of Copenhagen in 2015
-I cannot guarantee that your eyes will not start to bleed if you read the code
+pdbwords was written by Kresten Lindorff-Larsen, University of Copenhagen in 2015.
+
+I cannot guarantee that your eyes will not start to bleed if you read the code.
 
 The main ingredient of pdbwords is a protein alphabet, developed by Mark Howarth:
 http://www.bioch.ox.ac.uk/howarth/alphabet.htm
@@ -10,11 +11,12 @@ The python code is distributed under GNU General Public License v3.0
 ./pdbwords.py Just write your text here to set it in PDBWORDS
 ## THAT'S IT ##
 
-The code is essentially a wrapper for ImageMagick, which needs to be installed; see
+The code is essentially a wrapper for ImageMagick, which needs to be installed separately; see
 http://www.imagemagick.org
 
 I have only tested the code under macOS
 
+## More information ##
 Currently the letters A-Z can be used, and it is also possible to use . , ! ? :
 
 All letters will be set as uppercase letters, but you can input as either lower or upper.
